@@ -32,4 +32,6 @@ Telegram bot with Qiwi payment. This is my test project.
 ![image](https://user-images.githubusercontent.com/66784042/178778855-f1126844-cb3a-4f49-922e-92ffb22fbbe5.png)
 
 ![image](https://user-images.githubusercontent.com/66784042/178778996-c38fed07-e572-4476-b23f-50223626c68a.png)
-###### P.S. да, я не закидывал 120000 рублей :D.
+###### P.S. да, я не закидывал 120000 рублей :grin:.
+
+P.P.S. можете не обращать внимания на [pyqiwi_less](https://github.com/gest0rbn/telegram_qiwi_payment_bot/blob/main/pyqiwi_less.py). Разбирался, что да и как в ней :blush:
