@@ -1,4 +1,4 @@
-[Python310](https://img.shields.io/badge/python-3.10-green) <img alt="GitHub followers" src="https://img.shields.io/github/followers/gest0rbn?color=violet&style=plastic">
+![Python310](https://img.shields.io/badge/python-3.10-green) <img alt="GitHub followers" src="https://img.shields.io/github/followers/gest0rbn?color=violet&style=plastic">
 
 # ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 'Родной') telegram_qiwi_payment_bot
 
