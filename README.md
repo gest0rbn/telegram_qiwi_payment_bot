@@ -7,5 +7,5 @@ Telegram bot with Qiwi payment. This is my test project.
 ##### pip install pyQiwiP2P==2.0.1
 
 ### <b>Description<b>
-### переменной [admin_id](]https://github.com/gest0rbn/telegram_qiwi_payment_bot/blob/main/config.py#:~:text=%2712345%3AAB1CD2EFGH3%27-,admin_id,-%3D%20882415145) в [config.py](https://github.com/gest0rbn/telegram_qiwi_payment_bot/blob/main/config.py) присваиваем ваш user id (целое число)
+### переменной [admin_id](]https://github.com/gest0rbn/telegram_qiwi_payment_bot/blob/main/config.py#:~:text=%2712345%3AAB1CD2EFGH3%27-,admin_id) в [config.py](https://github.com/gest0rbn/telegram_qiwi_payment_bot/blob/main/config.py) присваиваем ваш user id (целое число)
     admin_id = 123456789
