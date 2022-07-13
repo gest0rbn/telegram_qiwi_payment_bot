@@ -16,8 +16,8 @@ Telegram bot with Qiwi payment. This is my test project.
 #### Используется встроенная в Python база данных SQLite3. Указываетете сумму оплаты, оплачиваете счёт и информация отправляется в базу данных в виде user_id:total (никнейм тг:баланс)
 
 ### Admin functions
-##### Администратор только парсит базу данных и ему одним сообщением отправляются данные Telegram @nickname amount 12345 (как пр-р)
-    ![image](https://user-images.githubusercontent.com/66784042/178778128-f2e85e53-5cc1-42ca-bc29-504aaa6f952d.png)
+##### Администратор только парсит базу данных и ему одним сообщением отправляются данные Telegram @nickname amount 12345 (см. скриншот)
+![image](https://user-images.githubusercontent.com/66784042/178778128-f2e85e53-5cc1-42ca-bc29-504aaa6f952d.png)
     
 ### Коротко в скриншотах:
     
