@@ -20,4 +20,12 @@ Telegram bot with Qiwi payment. This is my test project.
 ![image](https://user-images.githubusercontent.com/66784042/178778128-f2e85e53-5cc1-42ca-bc29-504aaa6f952d.png)
     
 ### Коротко в скриншотах:
-    
+#### Admin
+![image](https://user-images.githubusercontent.com/66784042/178778565-e3f6589a-57ed-4cee-9f35-1e565e76d19a.png)
+#### User
+![image](https://user-images.githubusercontent.com/66784042/178778463-e8408bce-5183-4150-b155-c76325875516.png)
+![image](https://user-images.githubusercontent.com/66784042/178778490-d375261e-0e6c-40b3-8004-6fc9e2e4806b.png)
+![image](https://user-images.githubusercontent.com/66784042/178778749-a39df357-f1bb-49a6-91ea-89f883b00493.png)
+![image](https://user-images.githubusercontent.com/66784042/178778855-f1126844-cb3a-4f49-922e-92ffb22fbbe5.png)
+![image](https://user-images.githubusercontent.com/66784042/178778996-c38fed07-e572-4476-b23f-50223626c68a.png)
+###### P.S. да, я не закидывал 120000 рублей :D.
