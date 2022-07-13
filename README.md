@@ -3,5 +3,5 @@
 Telegram bot with Qiwi payment. This is my test project.
 --------------------------
 ### <b>pip<b>
-#### pip install aiogram
-#### pip install pyQiwiP2P==2.0.1
+##### pip install aiogram
+##### pip install pyQiwiP2P==2.0.1
