@@ -1,0 +1,3 @@
+from inline_button.inl_b import inl_markup_balance
+from inline_button.inl_b_pay import inl_markup_pay
+from inline_button.inline_adm import inl_admin

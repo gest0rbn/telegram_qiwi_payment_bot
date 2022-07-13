@@ -1,0 +1,1 @@
+from api_qiwi.qiwip2p import p2p
